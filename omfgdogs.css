@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    background-image: url("assets/omfgdogs.gif");
+    background-repeat: repeat;
+}
+
+#original {
+    font: 75% "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+    text-align: right;
+    background-color: white;
+    padding: 1em;
+    border: 1px solid #999;
+    position: absolute;
+    bottom: 0;
+    right: 1em;
+}
